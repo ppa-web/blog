@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /posts/
+Disallow: /search/
+
+Sitemap: https://codingactions.com/sitemap.xml
